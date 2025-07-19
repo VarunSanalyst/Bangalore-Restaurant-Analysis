@@ -64,13 +64,6 @@ To analyze the food and dining landscape in Bangalore through visual analytics a
 - 🧾 Prioritize cuisines like *North Indian, **Chinese, and **Italian*
 - 🚚 Offer *delivery & booking* to boost visibility and customer satisfaction
 
----
-
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn – Varun S Gowda](https://www.linkedin.com/in/your-profile)
-- 📧 Email: youremail@example.com
-
 ## 🚀 Author
 
 *Varun S*  
